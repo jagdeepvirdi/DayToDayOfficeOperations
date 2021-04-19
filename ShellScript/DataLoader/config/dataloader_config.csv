@@ -1,0 +1,8 @@
+RBM,evIN,0,0,RBM2EventFile.ctrl
+RBM,evLKS,0,0,RBM2EventFile.ctrl
+RBM,evLTY,0,0,RBM2EventFile.ctrl
+RBM,evBW,1,1,RBM2EventFile.ctrl
+RBM,evIKKMS,1,1,RBM2EventFile.ctrl
+RBM,evX2T,1,1,RBM2EventFile.ctrl
+RBM,evpkgsdr,1,1,RBM2EventFile.ctrl
+RBM,evITFS,0,0,RBM2EventFile.ctrl
